@@ -16,21 +16,15 @@ To run the Training App locally, follow the instructions below:
 ### Prerequisites
 
 - Python 3.7 or higher installed on your system
-- Flask framework (`pip install flask`)
+- Flask framework (pip install flask)
 
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/phillips4100/trainingcalculator.git
-
 
 2. Navigate to the project directory:
-cd TrainingApp
-
 
 3. Install the required dependencies:
-pip install -r requirements.txt
-
 
 ### Running the App
 
@@ -39,16 +33,15 @@ pip install -r requirements.txt
   ```
   set FLASK_APP=app.py
   ```
+
 - For macOS/Linux Terminal:
   ```
   export FLASK_APP=app.py
   ```
 
 2. Start the Flask development server:
-flask run
 
-
-3. Open your web browser and visit `http://localhost:5000` to access the Training App.
+3. Open your web browser and visit http://localhost:5000 to access the Training App.
 
 ## Contributing
 
@@ -56,7 +49,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
